@@ -1,7 +1,7 @@
 import re
 import statistics
 
-def readWords(filename='cpu.dat'):
+def readWords(filename='sample-cpu-data.dat'):
     return([i[0:i.index("\n")].split(", ") for i in list(open(filename))])
 
 #Read in the CPU information database.
