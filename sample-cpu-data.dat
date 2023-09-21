@@ -1,0 +1,100 @@
+AMD Ryzen 9 5950X, 16, 3.4, 9700
+Intel Core i9-11900K, 8, 3.5, 6000
+AMD Ryzen 9 5900X, 12, 3.7, 8600
+Intel Core i7-10700K, 8, 3.8, 5400
+AMD Ryzen 9 3900X, 12, 3.8, 7200
+Intel Core i9-10900K, 10, 3.7, 6200
+AMD Ryzen 7 5800X, 8, 3.8, 6800
+Intel Core i5-10600K, 6, 4.1, 4500
+AMD Ryzen 5 5600X, 6, 3.7, 5100
+Intel Core i9-9900K, 8, 3.6, 5400
+AMD Ryzen 7 3700X, 8, 3.6, 5100
+Intel Core i7-9700K, 8, 3.6, 4800
+AMD Ryzen 5 3600X, 6, 3.8, 4500
+Intel Core i7-10700, 8, 2.9, 4800
+AMD Ryzen 7 3800X, 8, 3.9, 5300
+Intel Core i5-10400, 6, 2.9, 3900
+AMD Ryzen 5 3600, 6, 3.6, 4100
+Intel Core i7-9700, 8, 3.0, 4800
+AMD Ryzen 7 2700X, 8, 3.7, 4100
+Intel Core i5-9600K, 6, 3.7, 4200
+AMD Ryzen 5 2600X, 6, 3.6, 3600
+Intel Core i5-9400F, 6, 2.9, 3500
+AMD Ryzen 5 2600, 6, 3.4, 3400
+Intel Core i5-9500, 6, 3.0, 3300
+AMD Ryzen 5 3500X, 6, 3.6, 3700
+Intel Core i5-8400, 6, 2.8, 3200
+AMD Ryzen 5 2400G, 4, 3.6, 2800
+Intel Core i3-10100, 4, 3.6, 2500
+AMD Ryzen 3 3200G, 4, 3.6, 2600
+Intel Pentium G5400, 2, 3.7, 1200
+AMD Ryzen 9 3950X, 16, 3.5, 9500
+Intel Core i9-11900KF, 8, 3.5, 5900
+AMD Ryzen 9 3900XT, 12, 4.0, 7200
+Intel Core i7-10700KF, 8, 3.8, 5400
+AMD Ryzen 9 3900, 12, 3.1, 6900
+Intel Core i9-10900KF, 10, 3.7, 6200
+AMD Ryzen 7 5700X, 8, 3.8, 6500
+Intel Core i5-10600KF, 6, 4.1, 4500
+AMD Ryzen 5 5600, 6, 3.6, 5000
+Intel Core i7-10700F, 8, 2.9, 4800
+AMD Ryzen 5 3600XT, 6, 3.8, 4600
+Intel Core i7-9700KF, 8, 3.6, 4800
+AMD Ryzen 7 4700X, 8, 3.6, 5800
+Intel Core i5-10400F, 6, 2.9, 3900
+AMD Ryzen 5 4600, 6, 3.7, 5200
+Intel Core i7-9700F, 8, 3.0, 4800
+AMD Ryzen 5 1600, 6, 3.2, 3300
+Intel Core i5-8400T, 6, 1.7, 2900
+AMD Ryzen 3 3300X, 4, 3.8, 3400
+Intel Core i3-9100F, 4, 3.6, 2500
+AMD Ryzen 3 3100X, 4, 3.6, 3200
+Intel Core i9-10900X, 10, 3.7, 6200
+AMD Ryzen 9 3900X, 12, 3.8, 7200
+Intel Core i7-10700X, 8, 3.8, 5400
+AMD Ryzen 7 5800XT, 8, 3.8, 6800
+Intel Core i5-10600X, 6, 3.3, 4400
+AMD Ryzen 5 5600XT, 6, 3.7, 5100
+Intel Core i3-10100F, 4, 3.6, 2500
+AMD Ryzen 3 3300, 4, 3.2, 2900
+Intel Core i9-10980XE, 18, 3.0, 9200
+AMD Ryzen 7 3700XT, 8, 3.6, 5900
+Intel Core i5-10400T, 6, 2.0, 3300
+AMD Ryzen 5 4500X, 6, 3.8, 5200
+Intel Core i9-10850K, 10, 3.6, 6400
+AMD Ryzen 3 3100XT, 4, 3.8, 3200
+Intel Core i7-9700T, 8, 2.0, 4200
+AMD Ryzen 5 3500XT, 6, 3.6, 4700
+Intel Core i5-10500T, 6, 2.3, 3600
+AMD Ryzen 7 2700XT, 8, 3.7, 4900
+Intel Core i9-9900KS, 8, 4.0, 5900
+AMD Ryzen 5 4600XT, 6, 3.8, 5200
+Intel Core i7-10700T, 8, 2.0, 4200
+AMD Ryzen 3 3300XT, 4, 3.8, 3400
+Intel Core i5-10600, 6, 3.3, 4400
+AMD Ryzen 5 5600G, 6, 3.9, 5100
+Intel Core i5-10500, 6, 3.1, 3900
+AMD Ryzen 5 3600T, 6, 3.2, 4100
+Intel Core i9-10885H, 8, 2.4, 4800
+AMD Ryzen 7 4700U, 8, 2.0, 4200
+Intel Core i7-9700S, 8, 3.0, 4800
+AMD Ryzen 5 4500U, 6, 2.3, 3400
+Intel Core i9-10900B, 10, 2.2, 5300
+AMD Ryzen 5 3500U, 4, 2.1, 2800
+Intel Core i5-10400B, 6, 2.9, 3700
+AMD Ryzen 5 2500U, 4, 2.0, 2400
+Intel Core i3-10100T, 4, 3.0, 2500
+AMD Ryzen 3 4300U, 4, 2.7, 2600
+Intel Pentium Gold G6400, 2, 4.0, 1200
+AMD Ryzen 3 3250U, 2, 2.6, 1600
+Intel Core i7-10710U, 6, 1.1, 2700
+AMD Ryzen 9 5950XT, 16, 3.5, 9900
+Intel Core i9-12900K, 16, 3.2, 9500
+AMD Ryzen 9 6900XT, 12, 3.9, 8900
+Intel Core i7-12700K, 12, 3.6, 7600
+AMD Ryzen 9 5900XT, 12, 3.9, 8700
+Intel Core i5-12600K, 10, 3.7, 6300
+AMD Ryzen 9 5950G, 16, 3.9, 9500
+Intel Core i9-11900KS, 8, 5.3, 7300
+AMD Ryzen 7 5700XT, 8, 3.8, 6800
+Intel Core i9-10900XE, 18, 3.7, 9200
