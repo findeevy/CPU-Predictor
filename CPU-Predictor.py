@@ -25,4 +25,4 @@ matchNames=[i[0] for i in coreMatch if float(i[2])==closestSpeed]
 predictedCinebench=statistics.mean([int(i[3]) for i in matchList])
 
 #Print the results.
-print("Your processor ("+userCPUName+") has a predicted Cinebench R20 Multithreaded score of "+str(predictedCinebench)+" and is most similar to the following CPU(s):\n"+"\n".join(matchNames))
+print("Your processor ("+userCPUName+") has a predicted Cinebench R20 Multithreaded score of "+str(int(predictedCinebench))+" and is most similar to the following CPU(s):\n"+"\n".join(matchNames))
