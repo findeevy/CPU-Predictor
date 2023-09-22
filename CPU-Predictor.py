@@ -12,7 +12,7 @@ userCPUName = input("What is your CPU's name?")
 userCPUSpeed = float(input("What is your CPU's speed in GHz?"))
 userCPUCore = int(input("What is your CPU's core count?"))
 
-#Match the user's CPU core.
+#Match the user's CPU core count.
 closestCoreCount=min([float(i[1]) for i in cpuList], key=lambda i:abs(i-userCPUCore))
 coreMatch=[i for i in cpuList if float(i[1])==closestCoreCount]
 
@@ -21,7 +21,7 @@ closestSpeed=min([float(i[2]) for i in coreMatch], key=lambda i:abs(i-userCPUSpe
 matchList=[i for i in coreMatch if float(i[2])==closestSpeed]
 matchNames=[i[0] for i in coreMatch if float(i[2])==closestSpeed]
 
-#Predict the user's CPU's Cinebench score by averaging the matched CPU(s) scores.
+#Predict the user's CPU's Cinebench score by averaging the matched CPU(s) scores and calculating the difference in clock speed and core count.
 predictedCinebench=statistics.mean([int(i[3]) for i in matchList])*(userCPUSpeed/closestSpeed)*(userCPUCore/closestCoreCount)
 
 #Print the results.
