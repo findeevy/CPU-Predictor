@@ -1,7 +1,7 @@
 import re
 import statistics
 
-def readWords(filename='sample-cpu-data.dat'):
+def readWords(filename='cpu.dat'):
     return([i[0:i.index("\n")].split(", ") for i in list(open(filename))])
 
 #Read in the CPU information database.
@@ -22,7 +22,7 @@ matchList=[i for i in coreMatch if float(i[2])==closestSpeed]
 matchNames=[i[0] for i in coreMatch if float(i[2])==closestSpeed]
 
 #Predict the user's CPU's Cinebench score by averaging the matched CPU(s) scores.
-predictedCinebench=statistics.mean([int(i[3]) for i in matchList])
+predictedCinebench=statistics.mean([int(i[3]) for i in matchList])*(userCPUSpeed/closestSpeed)*(userCPUCore/closestCoreCount)
 
 #Print the results.
 print("Your processor ("+userCPUName+") has a predicted Cinebench R20 Multithreaded score of "+str(int(predictedCinebench))+" and is most similar to the following CPU(s):\n"+"\n".join(matchNames))
