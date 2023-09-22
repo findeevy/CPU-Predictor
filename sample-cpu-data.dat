@@ -60,7 +60,6 @@ AMD Ryzen 5 3300X, 4, 3.8, 3400
 Intel Core i9-9900KS, 8, 4.0, 6500
 AMD Ryzen 9 3950X, 16, 3.5, 9500
 Intel Core i9-9900K, 8, 3.6, 6200
-AMD Ryzen 7 3700X, 8, 3.6, 5100
 Intel Core i7-9700K, 8, 3.6, 5800
 AMD Ryzen 5 3600X, 6, 3.8, 4600
 Intel Core i5-9600K, 6, 3.7, 4200
@@ -77,11 +76,9 @@ Intel Core i9-9940X, 14, 3.3, 8600
 AMD Ryzen 3 2200G, 4, 3.5, 2500
 Intel Core i7-9750H, 6, 2.6, 4300
 AMD Ryzen 7 2700, 8, 3.2, 4800
-Intel Core i9-9900K, 8, 3.6, 6200
 AMD Ryzen 7 2700X, 8, 3.7, 5200
 Intel Core i7-8700K, 6, 3.7, 5100
 AMD Ryzen 5 2600X, 6, 3.6, 4500
-Intel Core i9-9700K, 8, 3.6, 5800
 AMD Ryzen 7 2700, 8, 3.2, 4800
 Intel Core i5-8600K, 6, 3.6, 4700
 AMD Ryzen 5 2600, 6, 3.4, 4100
