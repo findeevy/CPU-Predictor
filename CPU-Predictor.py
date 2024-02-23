@@ -1,6 +1,10 @@
 import re
 import statistics
 
+#Written by Fin Deevy
+#Last updated 2024
+#Example data created by ChatGPT, can be replaced with your data (CPU Name, Core Count, Speed (GHz), Cinebench Score).
+
 def readWords(filename='cpu.dat'):
     return([i[0:i.index("\n")].split(", ") for i in list(open(filename))])
 
